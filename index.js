@@ -35,7 +35,6 @@ const replaceVal = (tempVal, data) => {
   }
 
 
-  /////// hi this is rakesh  
   //  DEFAULT NIGHT
   else {
     weatherIcon = isDay
