@@ -1,0 +1,15 @@
+{
+  "name": "topic-13_weatherappnode",
+  "version": "1.0.0",
+  "description": "creating a weather nodejs app",
+  "license": "ISC",
+  "author": "Rakesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
