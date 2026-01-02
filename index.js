@@ -34,6 +34,8 @@ const replaceVal = (tempVal, data) => {
     weatherIcon = `<i class="fas fa-smog" style="color:#b2bec3"></i>`;
   }
 
+
+  /////// hi this is rakesh  
   //  DEFAULT NIGHT
   else {
     weatherIcon = isDay
